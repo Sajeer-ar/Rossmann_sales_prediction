@@ -14,9 +14,9 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 This project contains two executable file, a technical document and a presentation as follows:
 
 ## Executable Files: 
-* **Rossmann Sales Prediction - Sajeer.ipynb** - Google Collab notebook containing data summary, exploration, visualisations and modeling.
+* **Rossmann_Sales_Prediction_1.ipynb** - Google Collab notebook containing data summary, exploration, visualisations and modeling.
 
-* **Rossmann Sales Prediction Part 2 - Sajeer.ipynb** - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.
+* **Rossmann_Sales_Prediction_2.ipynb** - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.
 
 ## Documentation: 
 * **Technical Documentation Regression.pdf** - Includes the complete documentation about the project. 
